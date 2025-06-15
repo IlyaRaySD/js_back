@@ -1,0 +1,23 @@
+{
+  "name": "js_back",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaRaySD/js_back.git"
+  },
+  "author": "Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaRaySD/js_back/issues"
+  },
+  "homepage": "https://github.com/IlyaRaySD/js_back#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0"
+  }
+}
